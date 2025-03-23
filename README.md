@@ -14,8 +14,8 @@ This project automates resume screening using **Natural Language Processing (NLP
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/resume-screening.git  
-   cd resume-screening  
+   git clone https://github.com/geetanshukushwaha/AI-Powered-Resume-Screening-and-Ranking-System.git
+   cd AI-Powered-Resume-Screening-and-Ranking-System
    ```  
 
 2. **Install Dependencies**  
